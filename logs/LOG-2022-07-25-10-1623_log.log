@@ -1,0 +1,4 @@
+10:16:23.636 [main] INFO  curs17.LogExample - This is a info message
+10:16:23.640 [main] WARN  curs17.LogExample - This is a warn message
+10:16:23.640 [main] ERROR curs17.LogExample - This is a error message
+10:16:23.640 [main] FATAL curs17.LogExample - This is a fatal message
